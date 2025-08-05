@@ -1,0 +1,14 @@
+﻿0. Initialization. Chosing user's Name, Race, Specs, FirstShip name and Difficulty level.
+
+1. The game starts on StarSystemSpace map which location on InterGalaxy map depends on race.
+
+2. Initially player governs 1 planet
+
+3. Every planet could have 3 type of structures: Factories, Military Structures and Homes which costs credits and resources.
+	- Planet with factories can produce Ships and Weapons
+	- Military Structures increase Defence points which gives better chance to defeat the attacker.
+	- Homes are for population. To reach the Maximum population you will need homes. More population, faster production and better deffence
+
+4. You can form a Fleet but smaller than 10 ships and command it as a whole.
+
+5. Backgrounds have random stars and depends on the map context.
